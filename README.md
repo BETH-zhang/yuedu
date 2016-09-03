@@ -1,6 +1,6 @@
 月度读书小组成立了
 ---
-![](http://mmbiz.qpic.cn/mmbiz_png/fuT2sxDyt33MsJB88jl4xsKcDUoa6An7cNB32FKk6VG2ibNiaMI1LshEYnh3dBYVnmsaFiar7ialHocanlROetthkQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![](./yuedu1.png)
 
 > 月度，顾名思义就是，阅读，一月一度，一月一读；在繁琐的工作和生活中，抽身出来，来读书，分享。让我们每天都过的开心，有意义。
 
@@ -18,7 +18,7 @@
 
 具体流程如下：
 
-![](http://mmbiz.qpic.cn/mmbiz_png/fuT2sxDyt33MsJB88jl4xsKcDUoa6An7bK6Ip1icLSeQGQHOGPFjjJwXl0nFOzXKzNWd4D49jwUc9avlHUYbIoQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![](./yuedu2.png)
 
 come on,就从今天开始！加油吧！
 
@@ -28,4 +28,4 @@ ps：如果你也想参与到我们的月度小组中来，可以给我们留言
 
 `微信公众平台``
 
-![微信公众平台二维码](./qrcode_for_gh_e5599e8a8301_430.jpg)
+![微信公众平台二维码](https://github.com/BETH-zhang/yuedu/raw/master/qrcode_for_gh_e5599e8a8301_430.jpg)
