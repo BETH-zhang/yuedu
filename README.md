@@ -24,6 +24,8 @@ come on,就从今天开始！加油吧！
 
 ps：如果你也想参与到我们的月度小组中来，可以给我们留言哦！
 
-月度分享笔记：[http://qiuge.me/yuedu](http://qiuge.me/yuedu)
-微信公众平台
+`月度分享笔记：`[http://qiuge.me/yuedu](http://qiuge.me/yuedu)
+
+`微信公众平台``
+
 ![微信公众平台二维码](./qrcode_for_gh_e5599e8a8301_430.jpg)
